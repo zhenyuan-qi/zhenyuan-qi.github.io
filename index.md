@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 齐震元博客
 
 You can use the [editor on GitHub](https://github.com/zhenyuan-qi/zhenyuan-qi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
